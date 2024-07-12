@@ -9,7 +9,16 @@ Features
   Visualizes the returns using a bar graph
   
 Requirements
+
   Python 3.x
   pandas
   yfinance
   matplotlib
+
+
+Example
+
+  Below is an example of how the bar graph might look, showing the returns for the first and second halves of the financial year:
+
+  
+![Figure_1](https://github.com/user-attachments/assets/4af53b5d-eb4a-4dcf-9818-95cd6d6c9fd3)
